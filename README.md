@@ -1,1 +1,1 @@
-Quête de la Wild Code School pour m'initier au git !!!!
+Quest for the Wild Code School to introduce me to the git.
